@@ -240,5 +240,5 @@ rule_temp = r'''
     "type": "number",
     "unit": "short",
     "valueData": []
-}
-'''
+}'''
+
