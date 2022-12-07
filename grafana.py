@@ -21,7 +21,7 @@ with open('servers.txt') as f:
                 rule["shapeData"][0]["pattern"] = server_id
                 rule["pattern"] = f"GPUnode{server_num}"
                 rule["tooltiplabel"] = "GPU Utils"
-                rule["linkData"][0][linkUrl] = link_url.substitute(server=f"node{server_num}")
+                rule["linkData"][0]["linkUrl"] = link_url.substitute(server=f"node{server_num}")
                 dashboard["panels"][0]["rulesData"]["rulesData"].append(rule)
 
             elif rulenum == 1:
