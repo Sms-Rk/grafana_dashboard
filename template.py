@@ -192,7 +192,7 @@ rule_temp = r'''
             "hidden": false,
             "linkOn": "a",
             "linkParams": false,
-            "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node10&from=now-15m&to=now",
+            "linkUrl": "",
             "pattern": ""
         }
     ],
