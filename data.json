@@ -52,7 +52,7 @@
                         "tooltip": true,
                         "type": "xml",
                         "url": "http://<YourUrl>/<Your XML/drawio file/api>",
-                        "xml": "\n<mxGraphModel dx=\"2243\" dy=\"959\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"500\" pageHeight=\"200\" background=\"none\" math=\"0\" shadow=\"0\"><root><mxCell id=\"0\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"3\" value=\"\" style=\"ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-518\" y=\"-160\" width=\"591\" height=\"724\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-22\" value=\"GPU 218\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-417.25\" y=\"385\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-23\" value=\"GPU 219\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-307.25\" y=\"385\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-24\" value=\"GPU 220\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-177.25\" y=\"385\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-25\" value=\"GPU 221\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-65\" y=\"385\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-1\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-2\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-3\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-4\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-5\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-6\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-7\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-8\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-9\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-10\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-11\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-12\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-13\" value=\"GPU 210\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-417.25\" y=\"100\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-15\" value=\"GPU 211\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-307.25\" y=\"100\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-16\" value=\"GPU 212\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-177.25\" y=\"100\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-17\" value=\"GPU 213\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-67.25\" y=\"100\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-18\" value=\"GPU 214\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-417.25\" y=\"243\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-19\" value=\"GPU 215\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-307.25\" y=\"243\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-20\" value=\"GPU 216\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-177.25\" y=\"243\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-21\" value=\"GPU 217\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-67.25\" y=\"243\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"4\" value=\"\" style=\"ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"124\" y=\"-170\" width=\"591\" height=\"724\" as=\"geometry\"/></mxCell><mxCell id=\"9\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"10\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"11\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"12\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"13\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"14\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"15\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"16\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"17\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"18\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"19\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"20\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"21\" value=\"STRG81\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"224.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"22\" value=\"STRG82\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"334.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"23\" value=\"EDGE1\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"464.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"24\" value=\"EDGE2\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"574.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"29\" value=\"ITRC GPUS\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-332\" y=\"-76\" width=\"133\" height=\"45\" as=\"geometry\"/></mxCell><mxCell id=\"30\" value=\"BOMEHEN SERVERS\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"314\" y=\"-88\" width=\"131\" height=\"46.5\" as=\"geometry\"/></mxCell></root></mxGraphModel>\n",
+                        "xml": "<mxGraphModel dx=\"1734\" dy=\"780\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"500\" pageHeight=\"200\" background=\"none\" math=\"0\" shadow=\"0\"><root><mxCell id=\"0\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"3\" value=\"\" style=\"ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-518\" y=\"-160\" width=\"591\" height=\"724\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-1\" value=\"GPU 201\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-2\" value=\"GPU 202\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-3\" value=\"GPU 203\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-4\" value=\"GPU 204\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"45\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-5\" value=\"GPU 208\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-6\" value=\"GPU 207\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-7\" value=\"GPU 206\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-8\" value=\"GPU 205\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"188\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-9\" value=\"GPU 209\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-401\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-10\" value=\"GPU 210\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-291\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-11\" value=\"211\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-161\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"Dh_DrhmWayKITDcaCOiC-12\" value=\"212\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-51\" y=\"327\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"4\" value=\"\" style=\"ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"124\" y=\"-170\" width=\"591\" height=\"724\" as=\"geometry\"/></mxCell><mxCell id=\"9\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"10\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"11\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"12\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"35\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"13\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"14\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"15\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"16\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"178\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"17\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"241\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"18\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"351\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"19\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"481\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"20\" value=\"\" style=\"sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"591\" y=\"317\" width=\"27.500000000000004\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"21\" value=\"STRG81\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"224.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"22\" value=\"STRG82\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"334.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"23\" value=\"EDGE1\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"464.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"24\" value=\"EDGE2\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"574.75\" y=\"90\" width=\"60\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"29\" value=\"ITRC GPUS\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"-332\" y=\"-76\" width=\"133\" height=\"45\" as=\"geometry\"/></mxCell><mxCell id=\"30\" value=\"BOMEHEN SERVERS\" style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"314\" y=\"-88\" width=\"131\" height=\"46.5\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
                         "zoom": "100%"
                     }
                 ]
@@ -91,7 +91,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node10&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU201&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-1"
                             }
                         ],
@@ -101,7 +101,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode10",
+                        "pattern": "GPUGPU201",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -129,7 +129,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -138,8 +138,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -173,7 +172,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode10",
+                        "pattern": "MEMORYGPU201",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -201,7 +200,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -210,8 +209,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -245,7 +243,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode10",
+                        "pattern": "CPUGPU201",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -273,7 +271,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -282,8 +280,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -307,7 +304,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node11&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU202&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-2"
                             }
                         ],
@@ -317,7 +314,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode11",
+                        "pattern": "GPUGPU202",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -345,7 +342,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -354,8 +351,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -389,7 +385,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode11",
+                        "pattern": "MEMORYGPU202",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -417,7 +413,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -426,8 +422,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -461,7 +456,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode11",
+                        "pattern": "CPUGPU202",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -489,7 +484,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -498,8 +493,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -523,7 +517,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node12&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU203&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-3"
                             }
                         ],
@@ -533,7 +527,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode12",
+                        "pattern": "GPUGPU203",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -561,7 +555,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -570,8 +564,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -605,7 +598,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode12",
+                        "pattern": "MEMORYGPU203",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -633,7 +626,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -642,8 +635,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -677,7 +669,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode12",
+                        "pattern": "CPUGPU203",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -705,7 +697,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -714,8 +706,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -739,7 +730,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node13&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU204&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-4"
                             }
                         ],
@@ -749,7 +740,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode13",
+                        "pattern": "GPUGPU204",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -777,7 +768,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -786,8 +777,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -821,7 +811,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode13",
+                        "pattern": "MEMORYGPU204",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -849,7 +839,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -858,8 +848,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -893,7 +882,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode13",
+                        "pattern": "CPUGPU204",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -921,7 +910,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -930,8 +919,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -955,7 +943,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node14&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU205&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-5"
                             }
                         ],
@@ -965,7 +953,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode14",
+                        "pattern": "GPUGPU205",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -993,7 +981,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1002,8 +990,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1037,7 +1024,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode14",
+                        "pattern": "MEMORYGPU205",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1065,7 +1052,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1074,8 +1061,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1109,7 +1095,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode14",
+                        "pattern": "CPUGPU205",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1137,7 +1123,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1146,8 +1132,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1171,7 +1156,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node15&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU206&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-6"
                             }
                         ],
@@ -1181,7 +1166,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode15",
+                        "pattern": "GPUGPU206",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1209,7 +1194,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1218,8 +1203,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1253,7 +1237,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode15",
+                        "pattern": "MEMORYGPU206",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1281,7 +1265,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1290,8 +1274,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1325,7 +1308,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode15",
+                        "pattern": "CPUGPU206",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1353,7 +1336,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1362,8 +1345,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1387,7 +1369,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node16&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU207&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-7"
                             }
                         ],
@@ -1397,7 +1379,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode16",
+                        "pattern": "GPUGPU207",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1425,7 +1407,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1434,8 +1416,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1469,7 +1450,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode16",
+                        "pattern": "MEMORYGPU207",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1497,7 +1478,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1506,8 +1487,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1541,7 +1521,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode16",
+                        "pattern": "CPUGPU207",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1569,7 +1549,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1578,8 +1558,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1603,7 +1582,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node17&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU208&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-8"
                             }
                         ],
@@ -1613,7 +1592,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode17",
+                        "pattern": "GPUGPU208",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1641,7 +1620,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1650,8 +1629,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1685,7 +1663,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode17",
+                        "pattern": "MEMORYGPU208",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1713,7 +1691,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1722,8 +1700,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1757,7 +1734,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode17",
+                        "pattern": "CPUGPU208",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1785,7 +1762,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1794,8 +1771,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1819,7 +1795,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node18&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU209&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-9"
                             }
                         ],
@@ -1829,7 +1805,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode18",
+                        "pattern": "GPUGPU209",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1857,7 +1833,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1866,8 +1842,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1901,7 +1876,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode18",
+                        "pattern": "MEMORYGPU209",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -1929,7 +1904,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -1938,8 +1913,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -1973,7 +1947,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode18",
+                        "pattern": "CPUGPU209",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2001,7 +1975,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2010,8 +1984,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2035,7 +2008,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node19&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU210&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-10"
                             }
                         ],
@@ -2045,7 +2018,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode19",
+                        "pattern": "GPUGPU210",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2073,7 +2046,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2082,8 +2055,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2117,7 +2089,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode19",
+                        "pattern": "MEMORYGPU210",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2145,7 +2117,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2154,8 +2126,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2189,7 +2160,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode19",
+                        "pattern": "CPUGPU210",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2217,7 +2188,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2226,8 +2197,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2251,7 +2221,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node20&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU211&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-11"
                             }
                         ],
@@ -2261,7 +2231,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode20",
+                        "pattern": "GPUGPU211",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2289,7 +2259,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2298,8 +2268,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2333,7 +2302,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode20",
+                        "pattern": "MEMORYGPU211",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2361,7 +2330,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2370,8 +2339,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2405,7 +2373,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode20",
+                        "pattern": "CPUGPU211",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2433,7 +2401,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2442,8 +2410,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2467,7 +2434,7 @@
                                 "hidden": false,
                                 "linkOn": "a",
                                 "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=node21&from=now-15m&to=now",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU212&from=now-15m&to=now",
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-12"
                             }
                         ],
@@ -2477,7 +2444,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "GPUnode21",
+                        "pattern": "GPUGPU212",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2505,7 +2472,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "GPU Utils",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2514,8 +2481,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "GPU Utils"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2549,7 +2515,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "MEMORYnode21",
+                        "pattern": "MEMORYGPU212",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2577,7 +2543,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "Memory Usage%",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2586,8 +2552,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "Memory Usage%"
+                        "valueData": []
                     },
                     {
                         "aggregation": "current",
@@ -2621,7 +2586,7 @@
                         "metricType": "serie",
                         "order": 1,
                         "overlayIcon": true,
-                        "pattern": "CPUnode21",
+                        "pattern": "CPUGPU212",
                         "rangeData": [],
                         "reduce": true,
                         "refId": "A",
@@ -2649,7 +2614,7 @@
                         ],
                         "tooltip": true,
                         "tooltipColors": true,
-                        "tooltipLabel": "",
+                        "tooltipLabel": "CPU Usage",
                         "tooltipOn": "a",
                         "tpDirection": "v",
                         "tpGraph": true,
@@ -2658,8 +2623,7 @@
                         "tpGraphType": "line",
                         "type": "number",
                         "unit": "short",
-                        "valueData": [],
-                        "tooltiplabel": "CPU Usage"
+                        "valueData": []
                     }
                 ]
             },
