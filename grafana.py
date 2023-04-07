@@ -3,6 +3,7 @@ import requests
 from template import dashboard_temp,rule_temp
 from diagram import diagram
 from string import Template
+import os
 
 
 
@@ -52,18 +53,18 @@ with open('data.json', 'w', encoding='utf-8') as f:
 
 
 
-#with open('data.json') as json_file:
-#    json_data = json.load(json_file)
-#print(type(json_data))
-#headers = {"Accept": "application/json",
-#           "Content-Type": "application/json",
-#           "Authorization": "Bearer eyJrIjoiektabHdnNkk2NjhpbnZzVmlUQ0U5NHhpdDZvNEtpWEkiLCJuIjoidGVzdDIiLCJpZCI6MX0="
-#           }
+url = 'http://localhost:3000/api'
 
-#r = requests.get("http://www.localhost:3005", headers=headers)
-#print(r.status_code)
+token = os.environ.get('TOKEN')
 
-#url = "http://www.localhost:3005/api/dashboards/db"
-#r = requests.post(url, data=json.dumps(json_data), headers=headers)
-#p = requests.post(url, headers=headers, data=json.dumps(open('data.json', 'rb')))
-#print(r.status_code)
+headers = {'Authorization': f'Bearer {token}'}
+with open('dashboard.json') as f:
+    dashboard = json.load(f)
+
+
+response = requests.post(url + '/dashboards/db', headers=headers, json={'dashboard': dashboard, 'overwrite': True})
+
+if response.status_code == 200:
+    print('Dashboard loaded successfully!')
+else:
+    print('Error loading dashboard: ', response.content)
