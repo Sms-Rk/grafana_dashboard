@@ -15,14 +15,14 @@ PATTERNS = [
     lambda num: f"CPUGPU{num}"
 ]
 
-with open(DASHBOARD_FILE) as f:
-    dashboard = json.load(f)
+dashboard = json.loads(dashboard_temp)
+
+rule_template = json.loads(rule_temp)
 
 with open(SERVERS_FILE) as f:
     servers = [line.strip().split(',') for line in f]
 
-with open(RULE_TEMPLATE_FILE) as f:
-    rule_template = json.load(f)
+
 
 for server_id, server_name in servers:
     server_num = server_name[-3:]
