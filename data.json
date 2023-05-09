@@ -70,2560 +70,580 @@
             "rulesData": {
                 "rulesData": [
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU201&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU201&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-1"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU201",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU201&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-1"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU201",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU201&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-1"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU201",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-1",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU202&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU202&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-2"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU202",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU202&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-2"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU202",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU202&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-2"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU202",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-2",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU203&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU203&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-3"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU203",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU203&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-3"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU203",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU203&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-3"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU203",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-3",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU204&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU204&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-4"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU204",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU204&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-4"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU204",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU204&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-4"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU204",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-4",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU205&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU205&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-5"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU205",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU205&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-5"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU205",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU205&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-5"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU205",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-5",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU206&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU206&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-6"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU206",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU206&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-6"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU206",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU206&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-6"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU206",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-6",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU207&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU207&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-7"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU207",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU207&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-7"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU207",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU207&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-7"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU207",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-7",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU208&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU208&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-8"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU208",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU208&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-8"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU208",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU208&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-8"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU208",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-8",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU209&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU209&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-9"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU209",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU209&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-9"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU209",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU209&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-9"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU209",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-9",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU210&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU210&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-10"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU210",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU210&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-10"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU210",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU210&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-10"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU210",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-10",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU211&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU211&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-11"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU211",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU211&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-11"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU211",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU211&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-11"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU211",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-11",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "GPU Utils",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU212&from=now-15m&to=now",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU212&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-12"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "GPUGPU212",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "GPU Utils",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "GPU Utils"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "Memory Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU212&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-12"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "MEMORYGPU212",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "Memory Usage%",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "Memory Usage"
                     },
                     {
-                        "aggregation": "current",
                         "alias": "CPU Usage",
-                        "colors": [
-                            "rgba(50, 172, 45, 0.97)",
-                            "rgba(237, 129, 40, 0.89)",
-                            "rgba(245, 54, 54, 0.9)"
-                        ],
-                        "column": "Time",
-                        "dateFormat": "YYYY-MM-DD HH:mm:ss",
-                        "decimals": 2,
-                        "eventData": [],
-                        "eventProp": "id",
-                        "eventRegEx": false,
-                        "gradient": false,
-                        "hidden": false,
-                        "invert": true,
                         "linkData": [
                             {
-                                "hidden": false,
-                                "linkOn": "a",
-                                "linkParams": false,
-                                "linkUrl": "",
+                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
+                                "linkUrl": "https://grafana.tip.co.ir/d/rYdddlPWk/per-gpu-metrics?orgId=1&refresh=1m&var-server=GPU212&from=now-15m&to=now"
+                            }
+                        ],
+                        "shapeData": [
+                            {
                                 "pattern": "Dh_DrhmWayKITDcaCOiC-12"
                             }
                         ],
-                        "linkProp": "id",
-                        "linkRegEx": true,
-                        "mappingType": 1,
-                        "metricType": "serie",
-                        "order": 1,
-                        "overlayIcon": true,
                         "pattern": "CPUGPU212",
-                        "rangeData": [],
-                        "reduce": true,
-                        "refId": "A",
-                        "sanitize": false,
-                        "shapeData": [
-                            {
-                                "colorOn": "a",
-                                "hidden": false,
-                                "pattern": "Dh_DrhmWayKITDcaCOiC-12",
-                                "style": "fillColor"
-                            }
-                        ],
-                        "shapeProp": "id",
-                        "shapeRegEx": true,
-                        "stringThresholds": [
-                            "/.*/",
-                            "/.*/"
-                        ],
-                        "textData": [],
-                        "textProp": "id",
-                        "textRegEx": true,
-                        "thresholds": [
-                            50,
-                            80
-                        ],
-                        "tooltip": true,
-                        "tooltipColors": true,
-                        "tooltipLabel": "CPU Usage",
-                        "tooltipOn": "a",
-                        "tpDirection": "v",
-                        "tpGraph": true,
-                        "tpGraphScale": "linear",
-                        "tpGraphSize": "100%",
-                        "tpGraphType": "line",
-                        "type": "number",
-                        "unit": "short",
-                        "valueData": []
+                        "tooltipLabel": "CPU Usage"
                     }
                 ]
             },
