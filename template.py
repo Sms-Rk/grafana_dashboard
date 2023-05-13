@@ -90,7 +90,7 @@ dashboard_temp = r'''
               "uid": "jrN4GVDVk"
             },
             "editorMode": "code",
-            "expr": "((node_memory_MemTotal_bytes- node_memory_MemFree_bytes) / (node_memory_MemTotal_bytes)) * 100",
+            "expr": "(node_memory_MemTotal_bytes - node_memory_MemFree_bytes - (node_memory_Cached_bytes + node_memory_Buffers_bytes + node_memory_SReclaimable_bytes)) / (node_memory_MemTotal_bytes)) * 100",
             "hide": false,
             "legendFormat": "MEMORY{{server}}",
             "range": true,
