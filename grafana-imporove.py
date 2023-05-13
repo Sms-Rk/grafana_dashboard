@@ -26,7 +26,6 @@ with open(SERVERS_FILE) as f:
 
 for server_id, server_name in servers:
     server_num = server_name[-3:]
-    print(server_num)
 
     rules_data = [
         {
@@ -42,5 +41,5 @@ for server_id, server_name in servers:
 
 dashboard["panels"][0]["flowchartsData"]["flowcharts"][0]["xml"] = diagram.strip()
 
-with open('data.json', 'w', encoding='utf-8') as f:
+with open('data2.json', 'w', encoding='utf-8') as f:
     json.dump(dashboard, f, ensure_ascii=False, indent=4)
