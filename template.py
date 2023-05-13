@@ -34,7 +34,7 @@ dashboard_temp = r'''
           "type": "prometheus",
           "uid": "jrN4GVDVk"
         },
-        "description": "Main Monitoring Dashboard For All GPU Servers",
+        "description": "Main Monitoring Dashboard For All Servers",
         "flowchartsData": {
           "flowcharts": [
             {
@@ -110,7 +110,7 @@ dashboard_temp = r'''
             "refId": "Gpu Utilization"
           }
         ],
-        "title": "GPU Servers",
+        "title": "ALL Servers",
         "transparent": true,
         "type": "agenty-flowcharting-panel",
         "valueName": "current",

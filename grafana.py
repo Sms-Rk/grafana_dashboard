@@ -53,18 +53,18 @@ with open('data.json', 'w', encoding='utf-8') as f:
 
 
 
-url = 'http://localhost:3000/api'
+#url = 'http://localhost:3000/api'
 
-token = os.environ.get('TOKEN')
+#token = os.environ.get('TOKEN')
 
-headers = {'Authorization': f'Bearer {token}'}
-with open('dashboard.json') as f:
-    dashboard = json.load(f)
+#headers = {'Authorization': f'Bearer {token}'}
+#with open('dashboard.json') as f:
+#    dashboard = json.load(f)
 
 
-response = requests.post(url + '/dashboards/db', headers=headers, json={'dashboard': dashboard, 'overwrite': True})
+#response = requests.post(url + '/dashboards/db', headers=headers, json={'dashboard': dashboard, 'overwrite': True})
 
-if response.status_code == 200:
-    print('Dashboard loaded successfully!')
-else:
-    print('Error loading dashboard: ', response.content)
+#if response.status_code == 200:
+#    print('Dashboard loaded successfully!')
+#else:
+#    print('Error loading dashboard: ', response.content)
