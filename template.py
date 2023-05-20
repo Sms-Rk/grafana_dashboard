@@ -31,8 +31,8 @@ dashboard_temp = r'''
     "panels": [
       {
         "datasource": {
-          "type": "prometheus",
-          "uid": "jrN4GVDVk"
+          "type": "Prometheus",
+          "uid": "Prometheus"
         },
         "description": "Main Monitoring Dashboard For All Servers",
         "flowchartsData": {
@@ -74,8 +74,8 @@ dashboard_temp = r'''
         "targets": [
           {
             "datasource": {
-              "type": "prometheus",
-              "uid": "jrN4GVDVk"
+              "type": "Prometheus",
+              "uid": "Prometheus"
             },
             "editorMode": "code",
             "expr": "node_load5",
@@ -86,8 +86,8 @@ dashboard_temp = r'''
           },
           {
             "datasource": {
-              "type": "prometheus",
-              "uid": "jrN4GVDVk"
+              "type": "Prometheus",
+              "uid": "Prometheus"
             },
             "editorMode": "code",
             "expr": "(node_memory_MemTotal_bytes - node_memory_MemFree_bytes - (node_memory_Cached_bytes + node_memory_Buffers_bytes + node_memory_SReclaimable_bytes) / (node_memory_MemTotal_bytes)) * 100",
@@ -98,10 +98,10 @@ dashboard_temp = r'''
           },
           {
             "datasource": {
-              "type": "prometheus",
-              "uid": "jrN4GVDVk"
+              "type": "Prometheus",
+              "uid": "Prometheus"
             },
-            "editorMode": "builder",
+            "editorMode": "code",
             "exemplar": false,
             "expr": "nvidia_smi_utilization_gpu_ratio",
             "hide": false,
@@ -129,13 +129,13 @@ dashboard_temp = r'''
       "list": [
         {
           "current": {
-            "selected": false,
-            "text": "node10",
-            "value": "node10"
+            "selected": true,
+            "text": "GPU201",
+            "value": "GPU201"
           },
           "datasource": {
-            "type": "prometheus",
-            "uid": "jrN4GVDVk"
+            "type": "Prometheus",
+            "uid": "Prometheus"
           },
           "definition": "label_values(server)",
           "hide": 0,
@@ -163,7 +163,7 @@ dashboard_temp = r'''
     "timepicker": {},
     "timezone": "",
     "title": "GPU Servers",
-    "uid": "jduzo2v4z",
+    "uid": "jduzo2vnm",
     "version": 72,
     "weekStart": ""
 }
